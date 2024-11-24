@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=37&letterSpacing=0.1rem&duration=2800&pause=700&color=45A333&background=000000&vCenter=true&width=500&height=80&separator=%3C&lines=%E3%85%A4Woody.develop('FrontEnd');%3C%E3%85%A4Woody.develop('React.js');%3C%E3%85%A4Woody.develop('TypeScript');%3C%E3%85%A4Woody.develop('JavaScript');%3C%E3%85%A4Woody.develop('Next.js');)](https://git.io/typing-svg)
 
 
-> ### **`Woody.develop('FrontEnd')`**
+> ### **`Woody.develop('FrontEnd');`**
   
   <div align="left">
 &nbsp; &nbsp; &nbsp; 
@@ -14,7 +14,7 @@
 
 <br/>
 
-> ### **`Woody.log('Blog')`**
+> ### **`Woody.log('Blog');`**
 
 <div align="left">
 &nbsp; &nbsp; &nbsp; 
